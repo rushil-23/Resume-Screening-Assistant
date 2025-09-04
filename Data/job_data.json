@@ -1,0 +1,62 @@
+{
+  "skills_dictionary": {
+    "Python": "High-level programming language used for data analysis, machine learning, and backend development.",
+    "SQL": "Language for querying and managing relational databases.",
+    "Pandas": "Python library for data analysis and manipulation.",
+    "Scikit-learn": "Python ML library for classification, regression, and clustering.",
+    "TensorFlow": "Deep learning framework for building neural networks.",
+    "PyTorch": "Popular deep learning library for research and production.",
+    "AWS": "Amazon Web Services cloud platform for hosting and deployment.",
+    "GCP": "Google Cloud Platform for cloud computing services.",
+    "Docker": "Containerization platform for deploying applications.",
+    "Kubernetes": "Container orchestration system for managing microservices.",
+    "Tableau": "Business intelligence tool for interactive data visualization.",
+    "Power BI": "Microsoft tool for business analytics and visualization.",
+    "Excel": "Spreadsheet software widely used for analysis and reporting.",
+    "Java": "General-purpose programming language often used in enterprise apps.",
+    "JavaScript": "Programming language for web development."
+  },
+
+  "job_descriptions": [
+    {
+      "title": "Data Analyst",
+      "company": "Tech Insights Ltd",
+      "location": "London, UK",
+      "required_skills": ["Python", "SQL", "Pandas", "Excel"],
+      "preferred_skills": ["Tableau", "Power BI"],
+      "description": "We are looking for a Data Analyst to collect, clean, and analyze datasets, generating insights to support business decisions."
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "AI Labs",
+      "location": "Berlin, Germany",
+      "required_skills": ["Python", "Scikit-learn", "TensorFlow", "PyTorch"],
+      "preferred_skills": ["AWS", "Docker", "Kubernetes"],
+      "description": "You will design, train, and deploy ML models for real-world applications, collaborating with research and production teams."
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "company": "FinAnalytics",
+      "location": "New York, USA",
+      "required_skills": ["SQL", "Tableau", "Power BI", "Excel"],
+      "preferred_skills": ["Python", "AWS"],
+      "description": "Responsible for developing BI dashboards, managing data pipelines, and ensuring accurate business reporting."
+    },
+    {
+      "title": "Cloud Engineer",
+      "company": "NextGen Cloud",
+      "location": "Amsterdam, Netherlands",
+      "required_skills": ["AWS", "GCP", "Docker"],
+      "preferred_skills": ["Kubernetes", "Python"],
+      "description": "Focus on designing and managing cloud infrastructure, automating deployments, and ensuring scalability of applications."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "WebWorks",
+      "location": "Toronto, Canada",
+      "required_skills": ["JavaScript", "Python", "SQL"],
+      "preferred_skills": ["Docker", "AWS", "Excel"],
+      "description": "Build and maintain scalable web applications, working across backend and frontend systems."
+    }
+  ]
+}
